@@ -1,0 +1,6 @@
+﻿Business_Field_ID,Field_Details,Field_Explanation
+BF001,Agriculture,"Các dự án liên quan đến phát triển nông nghiệp, liên kết khách hàng (B2B) và cả tìm nguồn cho các sản phẩm nông nghiệp. Bao gồm cả nghiên cứu thị trường về mảng nông nghiệp"
+BF002,Electronics,Chủ yếu là các dự án liên quan tới tìm nhà máy để sản xuất các linh kiện điện tử
+BF003,Contruction,"Liên quan đến tìm các công ty, đại lý phân phối các sản phẩm xây dựng cho khách"
+BF004,Furniture,Bao gồm cả Nội thất trong nhà và Nội thất bên ngoài
+BF005,Hospitality,"Thường liên quan tới các dự án B2B và Meeting booking, nhằm tìm các quan hệ tiềm năng để phát triển dịch vụ cho khách (Kể cả nghiên cứu thị trường dịch vụ của khách hàng ở Việt Nam)"

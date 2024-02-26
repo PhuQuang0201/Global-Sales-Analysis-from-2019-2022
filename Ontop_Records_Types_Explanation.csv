@@ -1,0 +1,5 @@
+﻿Record_Type,Type_Details,Type_Explanation
+REV,REVENUE,Ghi nhận tất cả các khoản tiền vào mà công ty nhận.
+COS,COST,Ghi nhận tất cả các khoản tiền mà công ty chi ra. Bao gồm cả chi phí cho từng dự án cũng như chi phí chung cho hoạt động.
+SC,SALE COST,"Chi phí vận hành chung, không liên quan đến một dự án cụ thể nào."
+SAL,SALARY,Chi phí lương cho nhân viên

@@ -1,0 +1,66 @@
+Payee_ID,Customer_Last_Order,Customer_Order,Customer_Revenue,R_score,F_score,M_score,RFM_score,Segment,Scores
+ABCO,946 days,1,5091.6,1,1,2,112,Lost customers,112
+ADCA,745 days,1,6215,2,1,3,213,About To Sleep,213
+ANVA,54 days,42,269871.53,5,5,5,555,Champions,555
+ARCU,250 days,3,42514.23,3,2,4,324,Need Attention,324
+ATOS,183 days,3,16295.75,3,2,4,324,Need Attention,324
+AUMO,291 days,1,450,3,1,1,311,New Customers,311
+AWIC,35 days,76,1067995.22,5,5,5,555,Champions,555
+BAHO,86 days,2,6595.39,4,1,3,413,Promising,413
+BALE,957 days,1,3294.89,1,1,2,112,Lost customers,112
+BAOE,439 days,1,918.5,3,1,1,311,New Customers,311
+BIGB,484 days,1,4909.86,3,1,2,312,About To Sleep,312
+BOES,47 days,34,802122.49,5,5,5,555,Champions,555
+CGSC,1199 days,1,41488.16,1,1,4,114,Cannot Lose Them,114
+COLA,566 days,1,5650,2,1,2,212,Hibernating customers,212
+DAIT,394 days,1,3025,3,1,2,312,About To Sleep,312
+DIRT,71 days,27,455949.09,4,5,5,455,Champions,455
+DUUT,56 days,3,7828.59,5,2,3,523,Promising,523
+ECMT,1007 days,1,3937.72,1,1,2,112,Lost customers,112
+EERK,48 days,3,6645.38,5,2,3,523,Promising,523
+ELLA,525 days,1,1762.2,2,1,1,211,Hibernating customers,211
+EXBE,64 days,10,75783.8,4,4,4,444,Loyal,444
+FECA,62 days,1,1426.72,4,1,1,411,New Customers,411
+FERT,245 days,2,7293.61,3,1,3,313,Promising,313
+FILU,909 days,2,6233.21,2,1,3,213,About To Sleep,213
+GAPE,170 days,5,1080,3,3,1,331,About To Sleep,331
+GHET,42 days,15,133773,5,4,5,545,Champions,545
+GIVA,166 days,1,1360,4,1,1,411,New Customers,411
+HUNG,642 days,1,1650,2,1,1,211,Hibernating customers,211
+LAAB,91 days,42,317371.2,4,5,5,455,Champions,455
+LIBU,913 days,13,61992.62,1,4,4,144,Cannot Lose Them,144
+LITO,650 days,1,1760,2,1,1,211,Hibernating customers,211
+LUXO,670 days,1,1265,2,1,1,211,Hibernating customers,211
+MERU,803 days,1,2703,2,1,2,212,Hibernating customers,212
+NCDU,121 days,13,513413.81,4,4,5,445,Champions,445
+NGHE,1084 days,4,29299.09,1,3,4,134,At Risk,134
+NHAN,534 days,1,5500,2,1,2,212,Hibernating customers,212
+NJDF,623 days,1,2250,2,1,2,212,Hibernating customers,212
+PAPE,117 days,5,23784.06,4,3,4,434,Need Attention,434
+PARG,1168 days,2,6898.39,1,1,3,113,Cannot Lose Them,113
+PETE,125 days,1,60,4,1,1,411,New Customers,411
+PHIN,758 days,1,10170,2,1,3,213,About To Sleep,213
+POOR,56 days,23,550203.46,5,5,5,555,Champions,555
+QUII,110 days,17,16279.25,4,4,4,444,Loyal,444
+QUIS,793 days,4,107041.54,2,3,5,235,At Risk,235
+REME,670 days,1,8625.45,2,1,3,213,About To Sleep,213
+RETA,210 days,2,13248,3,1,4,314,Promising,314
+RETE,1012 days,1,6490,1,1,3,113,Cannot Lose Them,113
+ROSE,48 days,4,1073111.09,5,3,5,535,Need Attention,535
+SACI,922 days,1,2330.63,1,1,2,112,Lost customers,112
+SANI,448 days,1,495,3,1,1,311,New Customers,311
+SAUE,1146 days,1,431.69,1,1,1,111,Lost customers,111
+SMAR,280 days,1,56.51,3,1,1,311,New Customers,311
+SOLU,1101 days,1,4976,1,1,2,112,Lost customers,112
+SUBM,280 days,2,6055.09,3,1,2,312,About To Sleep,312
+TACS,243 days,8,14552.39,3,3,4,334,Need Attention,334
+TOEL,54 days,1,2750,5,1,2,512,New Customers,512
+TOGO,51 days,16,10838.79,5,4,4,544,Champions,544
+TOLI,154 days,1,9434.23,4,1,3,413,Promising,413
+TOUB,1076 days,3,28141.43,1,2,4,124,At Risk,124
+WISH,77 days,4,100370.5,4,3,4,434,Need Attention,434
+XEMU,1021 days,2,9333.51,1,1,3,113,Cannot Lose Them,113
+XOTU,55 days,14,10166.95,5,4,3,543,Loyal,543
+YULH,30 days,81,1662235.04,5,5,5,555,Champions,555
+ZAYN,33 days,18,193473.58,5,4,5,545,Champions,545
+ZOOB,30 days,21,627114.3,5,5,5,555,Champions,555
