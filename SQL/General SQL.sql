@@ -1,5 +1,5 @@
 -- Tạo 1 database mới để lưu các file upload để xử lý cho final project --
-CREATE DATABASE BI40_Final
+CREATE DATABASE Final_Project_Quang
 
 -- Kiểm tra dữ liệu --
 SELECT *
